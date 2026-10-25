@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Peringatan Dini Cuaca BMKG</title>
+        <link>https://www.bmkg.go.id/alerts/nowcast/id/rss.xml</link>
+        <description>Peringatan Dini Cuaca dari BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)</description>
+        <language>id</language>
+        <pubDate>Sun, 25 Oct 2026 15:15:27 +0000</pubDate>
+        <item>
+            <title>Hujan Lebat disertai Petir di Papua</title>
+            <link>https://www.bmkg.go.id/alerts/nowcast/id/CPU20261025003_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 23:35 WIT</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.25.15.91.003</guid>
+            <pubDate>Sun, 25 Oct 2026 23:30:00 +0900</pubDate>
+        </item>
+        <item>
+            <title>Hujan Lebat disertai Petir di Riau</title>
+            <link>https://www.bmkg.go.id/alerts/nowcast/id/CRU20261025005_alert.xml</link>
+            <description>Hujan lebat disertai petir akan terjadi pada 25 October 2026, 21:35 WIB</description>
+            <author>cuaca.ekstrem@bmkg.go.id (BMKG)</author>
+            <guid isPermaLink="false">2.49.0.1.360.0.2026.10.25.15.14.005</guid>
+            <pubDate>Sun, 25 Oct 2026 21:29:00 +0700</pubDate>
+        </item>
+    </channel>
+</rss>

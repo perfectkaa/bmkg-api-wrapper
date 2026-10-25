@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>2.49.0.1.360.0.2026.10.25.15.91.003</identifier>
+  <sender>cuaca.ekstrem@bmkg.go.id</sender>
+  <sent>2026-10-25T23:30:00+09:00</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>id</language>
+    <category>Met</category>
+    <event>Hujan Lebat dan Petir</event>
+    <urgency>Immediate</urgency>
+    <severity>Moderate</severity>
+    <certainty>Observed</certainty>
+    <effective>2026-10-25T23:35:00+09:00</effective>
+    <expires>2026-10-26T01:35:00+09:00</expires>
+    <senderName>Badan Meteorologi Klimatologi dan Geofisika</senderName>
+    <headline>Hujan Lebat disertai Petir di Papua</headline>
+    <description>Hujan lebat disertai petir akan terjadi pada 25 October 2026</description>
+    <web>https://nowcasting.bmkg.go.id/infografis/CPU/2026/10/25/infografis.jpg</web>
+    <area>
+      <areaDesc>Papua</areaDesc>
+      <polygon>-2.859,139.906 -2.867,139.931</polygon>
+    </area>
+  </info>
+</alert>
